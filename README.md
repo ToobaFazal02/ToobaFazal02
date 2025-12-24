@@ -1,24 +1,21 @@
 <div align="center">
-  <h1>🚀 Tooba Fazal</h1>
-  <p><b>Backend Architect | Generative AI Specialist | Cloud Enthusiast</b></p>
+  <h1>Tooba Fazal</h1>
+  <p><b>AI/ML Engineer | Backend Specialist | GenAI Enthusiast</b></p>
   
   <p>
-    <i>Transforming complex legacy systems into scalable, AI-powered ecosystems.</i>
+    <i>Architecting intelligent solutions using Python, RAG, and Multimodal AI.</i>
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/tooba-fazal-9270b6284"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-blue?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:faziltooba95@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://www.linkedin.com/in/tooba-fazal-9270b6284"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:faziltooba95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
   </p>
 </div>
 
 ---
 
 ### ⚡ Professional Summary
-I am a **Software Engineer** specializing in the intersection of **Generative AI** and **Cloud Infrastructure**.  
-Currently leading the backend architecture of **AccessAble**, a unified AI ecosystem for web accessibility built with **FastAPI**, **Gemini**, and **Manifest V3**.  
-
-My focus: **building stateless backends, implementing intelligent caching, and modernizing legacy systems for high scalability and performance**.
+I am a **Software Engineer** focused on **Generative AI** and **Backend Systems**. My expertise lies in building stateless APIs with **FastAPI** and integrating Large Language Models (LLMs). Currently, I am developing **AccessAble**, an AI-driven ecosystem for web accessibility that leverages **Multimodal AI (Gemini)** for real-time content interpretation.
 
 ---
 
@@ -26,19 +23,20 @@ My focus: **building stateless backends, implementing intelligent caching, and m
 
 | Domain | Expertise |
 | :--- | :--- |
-| **Languages** | Python (Expert), PHP (Legacy Modernization), JavaScript (Manifest V3) |
-| **Frameworks** | FastAPI, Flask, Uvicorn (ASGI) |
-| **AI & LLM** | Google Gemini API, OpenAI GPT-4, RAG (Retrieval-Augmented Generation) |
-| **Infrastructure** | AWS, Azure, Render (CI/CD), Git & GitHub |
-| **Database** | SQL Server, SQLite, Local Storage Caching |
+| **Languages** | Python (Advanced), PHP, JavaScript , Html , CSS |
+| **AI & ML** | Generative AI, RAG (Retrieval-Augmented Generation), Prompt Engineering |
+| **Frameworks** | FastAPI, Uvicorn (ASGI) |
+| **Tools & Cloud** | Git, AWS, Azure, Render (CI/CD), Postman |
+
+---
 
 ---
 
 ### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToobaFazal02&show_icons=true&theme=radical&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaFazal02&layout=compact&theme=radical&hide_progress=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToobaFazal02&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaFazal02&layout=compact&theme=radical&hide_progress=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -47,15 +45,12 @@ My focus: **building stateless backends, implementing intelligent caching, and m
 
 ---
 
-### 🔭 Current Engineering Focus
-- 🏗️ **AccessAble (FYP):** Privacy-first AI extension providing **context-aware image interpretation** and **voice navigation** for web accessibility.  
-- 🔬 **Legacy Automation:** Using LLMs to decouple and modernize monolithic PHP applications.  
-- 🤖 **Advanced RAG Systems:** High-fidelity document processing via **vector databases** for scalable AI workflows.
-
 ---
 
-### 🤝 Let’s Collaborate
-I am open to discussions on **AI/ML opportunities, Open Source contributions, and backend performance optimization**.
+### 🔭 Current Focus
+- 🏗️ **AccessAble (FYP):** Enhancing web accessibility using Multimodal AI for image and voice-based interactions.
+- 🔬 **RAG Research:** Exploring Retrieval-Augmented Generation for specialized document processing.
+- 🤖 **Agentic Workflows:** Experimenting with AI agents for automated task execution.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ToobaFazal02&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
