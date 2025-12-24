@@ -1,38 +1,62 @@
 <div align="center">
-  <h1>Hi there, I'm Tooba Fazal! 👋</h1>
-  <h3>Backend & Cloud Engineer | Building AI-Powered Tools</h3>
-
+  <h1>🚀 Tooba Fazal</h1>
+  <p><b>Backend Architect | Generative AI Specialist | Cloud Enthusiast</b></p>
+  
   <p>
-    I modernize Legacy PHP systems and build scalable AI solutions using Python & Cloud.
-    <br> Currently architecting <b>AccessAble (FYP)</b> - An AI-powered Web Accessibility Assistant.
+    <i>Transforming complex legacy systems into scalable, AI-powered ecosystems.</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/tooba-fazal-9270b6284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:faziltooba95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/tooba-fazal-9270b6284"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-blue?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:faziltooba95@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail" /></a>
+  </p>
 </div>
 
-<hr/>
+---
 
-### 🛠️ Technical Stack
+### ⚡ Professional Summary
+I am a **Software Engineer** specializing in the intersection of **Generative AI** and **Cloud Infrastructure**.  
+Currently leading the backend architecture of **AccessAble**, a unified AI ecosystem for web accessibility built with **FastAPI**, **Gemini**, and **Manifest V3**.  
 
-| Category | Technologies |
-|:---:|:---|
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **Cloud & AI** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![OpenAI](https://img.shields.io/badge/GenAI-412991?style=flat&logo=openai&logoColor=white) |
-| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) |
+My focus: **building stateless backends, implementing intelligent caching, and modernizing legacy systems for high scalability and performance**.
 
-### 🔭 Current Focus
-- 🏗️ Developing **AccessAble**, a Chrome Extension + FastAPI backend for accessibility.
-- 🔬 Researching **Automated Legacy Modernization** (using LLMs for PHP Decoupling).
-- 🤖 Exploring **RAG (Retrieval-Augmented Generation)** for AI document processing.
+---
 
-<br/>
+### 🛠️ Technical Arsenal
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Languages** | Python (Expert), PHP (Legacy Modernization), JavaScript (Manifest V3) |
+| **Frameworks** | FastAPI, Flask, Uvicorn (ASGI) |
+| **AI & LLM** | Google Gemini API, OpenAI GPT-4, RAG (Retrieval-Augmented Generation) |
+| **Infrastructure** | AWS, Azure, Render (CI/CD), Git & GitHub |
+| **Database** | SQL Server, SQLite, Local Storage Caching |
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToobaFazal02&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaFazal02&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToobaFazal02&show_icons=true&theme=radical&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaFazal02&layout=compact&theme=radical&hide_progress=true" height="195" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToobaFazal02&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🔭 Current Engineering Focus
+- 🏗️ **AccessAble (FYP):** Privacy-first AI extension providing **context-aware image interpretation** and **voice navigation** for web accessibility.  
+- 🔬 **Legacy Automation:** Using LLMs to decouple and modernize monolithic PHP applications.  
+- 🤖 **Advanced RAG Systems:** High-fidelity document processing via **vector databases** for scalable AI workflows.
+
+---
+
+### 🤝 Let’s Collaborate
+I am open to discussions on **AI/ML opportunities, Open Source contributions, and backend performance optimization**.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ToobaFazal02&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
