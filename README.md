@@ -34,13 +34,19 @@ I am a **Software Engineer** focused on **Generative AI** and **Backend Systems*
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToobaFazal02&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaFazal02&layout=compact&theme=radical&hide_progress=true" height="180" alt="Top Languages" />
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToobaFazal02&theme=radical" height="180" alt="GitHub Stats" />
 
+  
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToobaFazal02&theme=radical" height="180" alt="Repos per Language" />
+</div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToobaFazal02&theme=radical" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ToobaFazal02&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToobaFazal02&theme=radical" />
 </div>
 
 ---
