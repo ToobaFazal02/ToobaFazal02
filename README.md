@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Professional Summary
+###  Professional Summary
 I am a **Software Engineer** focused on **Generative AI** and **Backend Systems**. My expertise lies in building stateless APIs with **FastAPI** and integrating Large Language Models (LLMs). Currently, I am developing **AccessAble**, an AI-driven ecosystem for web accessibility that leverages **Multimodal AI (Gemini)** for real-time content interpretation.
 
 ---
